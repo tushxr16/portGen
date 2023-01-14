@@ -1,0 +1,133 @@
+{
+  "name":"Tushar",
+  "headline": "Hi, it's me Tushar",
+  "tagline":"I am a Software Developer & Data Enthusiast",
+  "services": [
+    {
+      "service_name": "Website Developer",
+      "service_desc": "In exploring the software development field, I came across web development. I started learning from online resources and eventually gained experience by working on university websites. I also took part in many hackathons.",
+      "service_icon": "fa-clock"
+    },
+    {
+      "service_name": "IoT Developer",
+      "service_desc": "I had a keen interest in microcontrollers, so I learned from a course floated by our institute. I gained exposure to IoT usage in various domains and applied my learning in building an end-to-end project in a team of four.",
+      "service_icon": "fa-layer-group"
+    },
+    {
+      "service_name": "Tech Consultant",
+      "service_desc": "Exploring and analyzing the new technologies coming that could be real game-changers has been my favorite thing to surf on the internet. I am the Software Community coordinator and a senior member of a consulting program run across the university, where we discuss new developments in tech.",
+      "service_icon": "fa-search"
+    },
+    {
+      "service_name": "Data Analysis",
+      "service_desc": "Performing computational statistical analysis on any given dataset caught my attention. I explored this area by solving datasets from Kaggle and then participating in various competitions. My team was runner-up in a flagship event organized by IIM - Bangalore.",
+      "service_icon": "fa-clock"
+    },
+    {
+      "service_name": "Graphic Designer",
+      "service_desc": "Playing with pictures, editing, and making memes was my favorite pastime during my high school years. I learned various photo editing tools for it. I was the Student Coordinator for the Media Team of the institute's Placement Cell and a member of the Poster Team of Zeitgeist Fest.",
+      "service_icon": "fa-check-circle"
+    }
+  ],
+  "projects": [
+    {
+      "project_name": "Esp-Fyi",
+      "project_desc": [
+        "Minimum utilization of aqueous resources via automation in irrigation in small fields",
+        "Reduction in wastage of crops with the help of identification of disease over 38 species of crops prior to spread of disease",
+        "Dataset used: Plant-Village Dataset, Tech Stack used: Flutter, Firebase RTDB, MobileNet Architecture"
+      ],
+      "project_image": "images/iot-proj.png",
+      "project_link": "https://github.com/tushxr16/esp-fyi"
+    },
+    {
+      "project_name": "Institute Department Website",
+      "project_desc": [
+        "A responsive website to familiarize with the new development, research work and people of the Department",
+        "Short portfolio's of professors and a tour of the Chemical Branch for UG and PG",
+        "Tech Stack used: HTML, CSS, Google REST api, PHP, Heroku Hosting"
+      ],
+      "project_image": "images/chem.jpg",
+      "project_link": "https://www.iitrpr.ac.in/chemical/Index/index.php"
+    },
+    {
+      "project_name": "Portfolio for Professor",
+      "project_desc": [
+        "A responsive website to familiarize with the new development, research work and people of the Research Group",
+        "Customizable dynamic portfolio for professor to maintain the research group.",
+        "Tech Stack used: ReactJs, HTML, CSS, Google REST api, Firebase Hosting"
+      ],
+      "project_image": "images/portfolio.png",
+      "project_link": "https://dr-neelkanth-nirmalkar.web.app/"
+    },
+    {
+      "project_name": "Student Leadership Conclave",
+      "project_desc": [
+        "Informative website providing information about the upcoming summit",
+        "Experiment with different UI/UX components to enhance the readability and CSS styles",
+        "Tech Stack used: HTML, CSS, Bootstrap, Heroku Hosting"
+      ],
+      "project_image": "images/slc.jpg",
+      "project_link": "https://www.iitrpr.ac.in/iitrpr-conclave/"
+    },
+    {
+      "project_name": "BITS & BYTES by IIM B",
+      "project_desc": [
+        "Analysis & Visualization on dataset of sales of SKUs of different breweries of competitors and the company",
+        "Tech Stack used: Python, NumPy, Pandas, Matplotlib.Pyplot",
+        "Second runner-up with cash prize of 50K"
+      ],
+      "project_image": "images/bits-bytes.webp",
+      "project_link": "fhttps://github.com/tushxr16/BITS-BYTE"
+    },
+    {
+      "project_name": "Hospital Management System",
+      "project_desc": [
+        "Packing the whole journey of patient from entering the hospital to exiting",
+        "Features including receptionist, doctor appointment, laboratory assessment, medical equipments/medicines",
+        "Tech Stack used: ReactJs, RTDB Firebase, Bootstrap"
+      ],
+      "project_image": "images/hospital.png",
+      "project_link": "https://github.com/tushxr16/Hospital-Management"
+    },
+    {
+      "project_name": "Software Community",
+      "project_desc": [
+        "Establishing the software culture in college by maintaining records of projects by students",
+        "Features including OAuth, MFA, upvote/downvote",
+        "Tech Stack used: ReactJs, HTML, CSS, Google REST api, Firebase Hosting"
+      ],
+      "project_image": "images/hospital.png",
+      "project_link": "https://github.com/tushxr16/Hospital-Management"
+    },
+    {
+      "project_name": "RIEMS - Govt. Sponsored",
+      "project_desc": [
+        "Building up a light-weight server to support GSM-communication",
+        "Features including control over irrigation method, monitoring of fields on large scale",
+        "Tech Stack used: RTDB Firebase, HTML, Bootstrap, PHP"
+      ],
+      "project_image": "images/iot.png",
+      "project_link": "NO"
+    }
+  ],
+  "contact":[
+    {
+      "social_media": "fa-linkedin",
+      "link":"https://www.linkedin.com/in/tushar-iitrpr/"
+    },
+    {
+      "social_media": "fa-github",
+      "link":"https://github.com/tushxr16/"
+    },
+    {
+      "social_media": "fa-instagram",
+      "link":"https://www.instagram.com/t.u.s.h.ar/"
+    }
+  ],
+  "location":{
+    "city":"Rupnagar",
+    "state":"Punjab",
+    "country":"India"
+  }
+}
